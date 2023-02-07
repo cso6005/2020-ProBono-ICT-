@@ -1,4 +1,5 @@
 ## 2020_프로보노 ICT 멘토링 | IoT 기반의 독거 치매노인 안심 돌봄 시스템
+https://www.hanium.or.kr/portal/project/awardView.do
 
 🏆 2020 프로보노 공모전 금상 수상
 
