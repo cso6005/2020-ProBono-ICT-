@@ -5,10 +5,7 @@
 🏆 2020 프로보노 ICT 멘토링 학술대회 우수상.
 
 🏆 2020 한국정보기술학회 대학생 논문경진대회 동상. 우수논문선정.
-_______________________
-공모전 수상 https://www.hanium.or.kr/portal/project/awardView.do
 
-시연 동영상 https://www.youtube.com/watch?v=f1mbW7SPs7U
 _______________________
 - '독거노인 돌봄시스템의 생활동작 빅데이타를 활용한 노인성질환 예측 모형 구현' 학술지 작성.
   - 2020 KIIT  한국정보기술학회 대학생 논문경진대회 학술논문발표
@@ -100,3 +97,9 @@ _______________________
   - 주 1회 이상 온/오프라인 팀 전체 미팅 진행
   - 주 1회 이상 SW/HW 팀 별도 개발 & 스터디 진행
   - 월 1회 멘토링과 Cloud 업로드를 통해 경과과정 보고 및 피드백
+
+
+_______________________
+한이음 공모전 수상작 https://www.hanium.or.kr/portal/project/awardView.do
+
+시연 동영상 https://www.youtube.com/watch?v=f1mbW7SPs7U
