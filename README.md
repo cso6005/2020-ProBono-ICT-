@@ -1,7 +1,4 @@
 ## 2020_프로보노 ICT 멘토링 | IoT 기반의 독거 치매노인 안심 돌봄 시스템
-https://www.hanium.or.kr/portal/project/awardView.do
-
-시연 동영상 https://www.youtube.com/watch?v=f1mbW7SPs7U
 
 🏆 2020 프로보노 공모전 금상 수상
 
@@ -10,6 +7,7 @@ https://www.hanium.or.kr/portal/project/awardView.do
 🏆 2020 한국정보기술학회 대학생 논문경진대회 동상. 우수논문선정.
 _______________________
 공모전 수상 https://www.hanium.or.kr/portal/project/awardView.do
+
 시연 동영상 https://www.youtube.com/watch?v=f1mbW7SPs7U
 _______________________
 - '독거노인 돌봄시스템의 생활동작 빅데이타를 활용한 노인성질환 예측 모형 구현' 학술지 작성.
